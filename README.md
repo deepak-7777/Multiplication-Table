@@ -33,7 +33,6 @@ The purpose of this project is to make table learning easy and engaging for mino
 Through this project, I learned:
 
 * Building educational apps
-* Handling user input
 * Implementing number logic
 * Designing simple child-friendly UI
 
