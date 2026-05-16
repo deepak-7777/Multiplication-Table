@@ -17,7 +17,7 @@ The purpose of this project is to make table learning easy and engaging for mino
 * Kid-friendly interface
 * Easy number selection
 * Quick table generation
-
+ 
 ---
 
 ## 🛠️ Tech Used
