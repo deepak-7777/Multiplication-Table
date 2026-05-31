@@ -1,4 +1,4 @@
-# 📂 Table Learning App
+# 📂 Table Learning App 
 
 This repository contains a **game-type educational application** designed to help children learn and practice multiplication tables in a fun and interactive way.
 
