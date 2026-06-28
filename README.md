@@ -25,7 +25,7 @@ The purpose of this project is to make table learning easy and engaging for mino
 * Java
 * XML
 * Android Studio
-
+ 
 ---
  
 ## 🎯 Learning Outcome
