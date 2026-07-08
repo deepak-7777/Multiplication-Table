@@ -27,7 +27,7 @@ The purpose of this project is to make table learning easy and engaging for mino
 * Android Studio
  
 ---
- 
+  
 ## 🎯 Learning Outcome
 
 Through this project, I learned:
