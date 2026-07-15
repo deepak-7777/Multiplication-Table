@@ -9,7 +9,7 @@ This repository contains a **game-type educational application** designed to hel
 The purpose of this project is to make table learning easy and engaging for minor children by presenting multiplication tables in an interactive app format.
 
 ---
-
+ 
 ## 🚀 Features
 
 * Multiplication table printing
